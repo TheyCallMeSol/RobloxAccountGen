@@ -1,4 +1,4 @@
-Python: Ensure you have Python installed on your system. The code provided is written in Python.
+Python: Ensure you have Python installed on your system. The code provided is written in Python 3.10 or higher.
 
 Chrome Browser: The code relies on Chrome WebDriver for browser automation. Ensure you have Google Chrome installed on your system.
 
